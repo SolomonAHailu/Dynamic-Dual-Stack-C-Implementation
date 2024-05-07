@@ -8,6 +8,7 @@
     stack.pop(0);      // Pop
     stack.pop(0);      // Pop
 
+
     std::cout << "Stack capacity: " << stack.capacity() << std::endl;
     std::cout << "Stack 0 size: " << stack.size(0) << std::endl;
     std::cout << "Stack 1 size: " << stack.size(1) << std::endl;
