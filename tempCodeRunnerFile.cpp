@@ -2,6 +2,7 @@
 
 
 
+
     stack.push(0, 10); // Push 10 to stack 0
     stack.push(1, 11); // Push 20 to stack 1
     stack.push(0, 20); // Push 10 to stack 0
