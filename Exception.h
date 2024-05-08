@@ -1,6 +1,7 @@
 #ifndef EXCEPTION_H
 #define EXCEPTION_H
 
+
 #include <stdexcept>
 
 class illegal_argument : public std::exception
