@@ -1,4 +1,3 @@
-
 s
 
 #ifndef EXCEPTION_H
